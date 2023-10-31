@@ -2,11 +2,11 @@
 
 # 💫About Me :
 > 
-> 👀 Ítalo Ferreira Menezes, 17 years
+> 👀 Ítalo Ferreira Menezes, 18 years
 > 
 > 💻 Back-end programmer
 > 
-> 🐍 Currently studying Python 
+> 🐍 Currently studying Python and C++
 > 
 > 🤖 Working on my future 
 
